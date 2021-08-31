@@ -1,0 +1,23 @@
+{
+  "name": "yeloapi",
+  "version": "1.0.0",
+  "description": "Api Wrapper for api.yeloapi.ga",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api-wrapper",
+    "yelo",
+    "yeloapi"
+  ],
+  "author": "Retr0",
+  "license": "ISC"
+}
