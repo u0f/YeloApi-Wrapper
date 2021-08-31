@@ -47,6 +47,7 @@ const YeloApi = require("yeloapi");
 | ytthumbnail | This endpoint allows you to get the thumbnail from youtube video in different resolutions |
 | genpass | This endpoint allows you to get random password/string with custom length |
 | nhentai | This endpoint allows you to get doujin information from nhentai.to |
+| discordwhois | This endpoints allows you to get information from any discord user |
 
 **More information in** [docs](https://docs.yeloapi.ga)
 
