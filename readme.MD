@@ -12,7 +12,7 @@ npm i yeloapi
 ## Usage example
 - Without requirements:
 ```js
-const YeloApi = require("./lib/index.js");
+const YeloApi = require("yeloapi");
 
 (async () => {
     const x = await YeloApi.ping()
