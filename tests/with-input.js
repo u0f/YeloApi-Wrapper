@@ -1,7 +1,7 @@
 const YeloApi = require("../lib/index.js");
 
 (async () => {
-    const x = await YeloApi.discWhois("827182806357639228")
+    const x = await YeloApi.shortURL("https://www.npmjs.com/package/yeloapi")
 
     console.log(x)
 })();
