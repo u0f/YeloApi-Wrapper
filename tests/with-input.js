@@ -1,7 +1,7 @@
 const YeloApi = require("../lib/index.js");
 
 (async () => {
-    const x = await YeloApi.discInvite("a2kAzH3W")
+    const x = await YeloApi.discWhois("827182806357639228")
 
     console.log(x)
 })();
